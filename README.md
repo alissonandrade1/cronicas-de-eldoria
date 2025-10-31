@@ -1,13 +1,3 @@
-Perfeito, Alisson ⚔️🔥
-Aqui está o **README.md completo, bonito, profissional e personalizado** para o seu projeto
-**Crônicas de Eldoria** — já formatado com o seu nome, GitHub real e tudo o que um projeto sério precisa.
-
-É só **copiar e colar no arquivo `README.md`** da raiz do seu repositório.
-Tudo está organizado com ícones, badges, seções e markdown 100% compatível com o GitHub.
-
----
-
-```markdown
 <h1 align="center">⚔️ Crônicas de Eldoria ⚔️</h1>
 
 <p align="center">
@@ -99,7 +89,7 @@ com.alissondev.cronicasdeeldoria
 
 ### ▶️ Executando localmente
 
-```bash
+
 # Clone o repositório
 git clone https://github.com/alissonandrade1/cronicas-de-eldoria.git
 
@@ -108,7 +98,7 @@ cd cronicas-de-eldoria
 
 # Rode o projeto com Maven
 mvn spring-boot:run
-````
+
 
 Depois acesse:
 👉 **[http://localhost:8080](http://localhost:8080)**
